@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "nome": "Thor",
+    "arma": "Martelo",
+    "identidade": "Thor"
+  },
+  {
+    "id": 2,
+    "nome": "Viuva",
+    "arma": "Punhos",
+    "identidade": "Scarlett"
+  },
+  {
+    "id": 3,
+    "nome": "Hulk",
+    "arma": "Esmagar",
+    "identidade": "Bruce Banner"
+  },
